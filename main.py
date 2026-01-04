@@ -17,5 +17,3 @@ t = (i for i in range(9))
 js = [t+1 for t in t]
 print("Start18")
 print("Start20")
-for i in js:
-    print(i)
