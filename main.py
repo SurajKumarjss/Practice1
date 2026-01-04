@@ -14,3 +14,5 @@ print("Start15")
 mq = (1,2,3,4)
 print("Start16")
 t = (i for i in range(9))
+js = [t+1 for t in t]
+print("Start18")
