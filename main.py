@@ -17,3 +17,4 @@ t = (i for i in range(9))
 js = [t+1 for t in t]
 print("Start18")
 print("Start20")
+l4 = [i for i in range(10) if i%2==0]
