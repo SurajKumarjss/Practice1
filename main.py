@@ -18,3 +18,4 @@ js = [t+1 for t in t]
 print("Start18")
 print("Start20")
 l4 = [i for i in range(10) if i%2==0]
+b = {i:i*i for i in range(5)}
